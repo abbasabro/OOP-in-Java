@@ -1,0 +1,2 @@
+The is my first FileWriter File
+Checking next line

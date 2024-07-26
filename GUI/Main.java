@@ -1,0 +1,6 @@
+package Paper;
+public class Main{
+    public static void main(String arg[]){
+        System.out.print("Hello World!");
+    }
+}

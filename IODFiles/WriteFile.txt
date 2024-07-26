@@ -1,0 +1,2 @@
+Hello, world!
+This is a Java program example for writing to a file.
